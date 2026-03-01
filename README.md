@@ -46,4 +46,4 @@ Brak zewnetrznych zaleznosci - czysta Java.
 ŹRÓDŁA INSPIRACJI
 ------------------
 - "Using Serious Games... Co-Operative Decision-making" (Ștefan i in., 2019)
-- "Interactive Serious Games for Cognitive Training" (Canapa i in., 2025)[file:1]
+- "Interactive Serious Games for Cognitive Training" (Canapa i in., 2025)
