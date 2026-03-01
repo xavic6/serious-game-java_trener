@@ -43,13 +43,6 @@ INSTALACJA I URUCHOMIENIE
 Brak zewnetrznych zaleznosci - czysta Java.
 
 
-AUTOR
------
-Wiktor Grobelski
-198368, EIT sem. 5, TELE 1 grupa B
-Projekt JPWP (Języki Programowania Wysokiego Poziomu)
-
-
 ŹRÓDŁA INSPIRACJI
 ------------------
 - "Using Serious Games... Co-Operative Decision-making" (Ștefan i in., 2019)
