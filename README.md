@@ -1,5 +1,5 @@
 # serious-game-java_trener
-Trener. to serious game napisana w Javie, symulujaca zarzadzanie szatnia druzyny pilkarskiej. Gracz wciela sie w role trenera, podejmujac decyzje wplywajace na wyniki sportowe, atmosfere w zespole i relacje interpersonalne.[file:1][file:3]
+Trener. to serious game napisana w Javie, symulujaca zarzadzanie szatnia druzyny pilkarskiej. Gracz wciela sie w role trenera, podejmujac decyzje wplywajace na wyniki sportowe, atmosfere w zespole i relacje interpersonalne.
 
 
 OPIS PROJEKTU
@@ -10,9 +10,9 @@ Gra edukacyjna skupia sie na balansowaniu czterech kluczowych wskaznikow:
 - Poparcie trenera
 - Forma druzyny
 
-Zaniedbanie ktoregokolwiek prowadzi do zwolnienia trenera i konca gry. Projekt opiera sie na badaniach naukowych dotyczacych serious games.[file:1][web:4]
+Zaniedbanie ktoregokolwiek prowadzi do zwolnienia trenera i konca gry. Projekt opiera sie na badaniach naukowych dotyczacych serious games.
 
-Aplikacja desktopowa 2D dziala w rozdzielczosci do 1280x1024, obsuguje GUI, zdarzenia i operacje na plikach.[file:3]
+Aplikacja desktopowa 2D dziala w rozdzielczosci do 1280x1024, obsuguje GUI, zdarzenia i operacje na plikach.
 
 
 GLÓWNE CECHY
