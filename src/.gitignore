@@ -1,0 +1,37 @@
+# Compiled Java classes
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+.project
+.classpath
+
+# Build dirs
+target/
+build/
+out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# NetBeans
+nbproject/
+nbactions.xml
+nb-configuration.xml
+build/
+
+# Javadoc
+javadoc/
+**/javadoc/
+
+# Backups
+*~
+*.bak
